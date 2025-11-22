@@ -1,0 +1,173 @@
+[
+  {
+    "id": 51,
+    "hanzi": "代数",
+    "pinyin": "dàishù",
+    "english": "Algebra",
+    "sentence": "用字母代表数字的数学分支。",
+    "sentencePinyin": "Yòng zìmǔ dàibiǎo shùzì de shùxué fēnzhī.",
+    "sentenceMeaning": "The branch of mathematics that uses letters to represent numbers."
+  },
+  {
+    "id": 52,
+    "hanzi": "方程",
+    "pinyin": "fāngchéng",
+    "english": "Equation",
+    "sentence": "含有未知数的等式。例如：x + 2 = 5。",
+    "sentencePinyin": "Hányǒu wèizhī shù de děngshì. Lìrú: x + 2 = 5.",
+    "sentenceMeaning": "An equality containing an unknown number. For example: x + 2 = 5."
+  },
+  {
+    "id": 53,
+    "hanzi": "变量",
+    "pinyin": "biànliàng",
+    "english": "Variable",
+    "sentence": "可以改变值的符号，通常用 x, y, z 表示。",
+    "sentencePinyin": "Kěyǐ gǎibiàn zhí de fúhào, tōngcháng yòng x, y, z biǎoshì.",
+    "sentenceMeaning": "A symbol that can change its value, usually represented by x, y, z."
+  },
+  {
+    "id": 54,
+    "hanzi": "常数",
+    "pinyin": "chángshù",
+    "english": "Constant",
+    "sentence": "固定不变的数值。例如：圆周率 π 是一个常数。",
+    "sentencePinyin": "Gùdìng bù biàn de shùzhí. Lìrú: Yuánzhōulǜ π shì yīgè chángshù.",
+    "sentenceMeaning": "A value that does not change. For example: Pi (π) is a constant."
+  },
+  {
+    "id": 55,
+    "hanzi": "系数",
+    "pinyin": "xìshù",
+    "english": "Coefficient",
+    "sentence": "变量前面的数字因子。例如：在 3x 中，3 是系数。",
+    "sentencePinyin": "Biànliàng qiánmiàn de shùzì yīnzǐ. Lìrú: Zài 3x zhōng, 3 shì xìshù.",
+    "sentenceMeaning": "The numerical factor in front of a variable. For example: In 3x, 3 is the coefficient."
+  },
+  {
+    "id": 56,
+    "hanzi": "解",
+    "pinyin": "jiě",
+    "english": "Solve",
+    "sentence": "求出方程中未知数的值。",
+    "sentencePinyin": "Qiú chū fāngchéng zhōng wèizhī shù de zhí.",
+    "sentenceMeaning": "To find the value of the unknown in an equation."
+  },
+  {
+    "id": 57,
+    "hanzi": "根",
+    "pinyin": "gēn",
+    "english": "Root",
+    "sentence": "使方程成立的未知数的值。例如：x=3 是方程 x+2=5 的根。",
+    "sentencePinyin": "Shǐ fāngchéng chénglì de wèizhī shù de zhí. Lìrú: x=3 shì fāngchéng x+2=5 de gēn.",
+    "sentenceMeaning": "A value of the unknown that satisfies the equation. For example: x=3 is the root of the equation x+2=5."
+  },
+  {
+    "id": 58,
+    "hanzi": "不等式",
+    "pinyin": "bù děngshì",
+    "english": "Inequality",
+    "sentence": "表示两边不相等的式子。例如：x > 5。",
+    "sentencePinyin": "Biǎoshì liǎngbiān bù xiāngděng de shì zi. Lìrú: x > 5.",
+    "sentenceMeaning": "An expression indicating that two sides are not equal. For example: x > 5."
+  },
+  {
+    "id": 59,
+    "hanzi": "函数",
+    "pinyin": "hánshù",
+    "english": "Function",
+    "sentence": "一种特殊的对应关系，每个输入值对应唯一输出值。例如：y = f(x)。",
+    "sentencePinyin": "Yī zhǒng tèshū de duìyìng guānxì, měi gè shūrù zhí duìyìng wéiyī shūchū zhí. Lìrú: y = f(x).",
+    "sentenceMeaning": "A special correspondence where each input value maps to exactly one output value. For example: y = f(x)."
+  },
+  {
+    "id": 60,
+    "hanzi": "坐标",
+    "pinyin": "zuòbiāo",
+    "english": "Coordinates",
+    "sentence": "用来表示点在平面中位置的一组数。例如：笛卡尔坐标系中的 (x, y)。",
+    "sentencePinyin": "Yòng lái biǎoshì diǎn zài píngmiàn zhōng wèizhì de yī zǔ shù. Lìrú: Díkǎ'ěr zuòbiāo xì zhōng de (x, y).",
+    "sentenceMeaning": "A set of numbers used to represent the position of a point in a plane. For example: (x, y) in the Cartesian coordinate system."
+  },
+  {
+    "id": 61,
+    "hanzi": "全等",
+    "pinyin": "quánděng",
+    "english": "Congruent",
+    "sentence": "形状和大小完全相同。符号：≌。",
+    "sentencePinyin": "Xíngzhuàng hé dàxiǎo wánquán xiāngtóng. Fúhào: ≌.",
+    "sentenceMeaning": "Having exactly the same shape and size. Symbol: ≌."
+  },
+  {
+    "id": 62,
+    "hanzi": "相似",
+    "pinyin": "xiāngsì",
+    "english": "Similar",
+    "sentence": "形状相同，但大小不一定相同。符号：∽。",
+    "sentencePinyin": "Xíngzhuàng xiāngtóng, dàn dàxiǎo bù yīdìng xiāngtóng. Fúhào: ∽.",
+    "sentenceMeaning": "Having the same shape, but not necessarily the same size. Symbol: ∽."
+  },
+  {
+    "id": 63,
+    "hanzi": "对称",
+    "pinyin": "duìchèn",
+    "english": "Symmetry",
+    "sentence": "图形可以被一条线（对称轴）分成完全相同的两部分。",
+    "sentencePinyin": "Túxíng kěyǐ bèi yī tiáo xiàn (duìchèn zhóu) fēn chéng wánquán xiāngtóng de liǎng bùfèn.",
+    "sentenceMeaning": "A shape can be divided by a line (axis of symmetry) into two identical parts."
+  },
+  {
+    "id": 64,
+    "hanzi": "体积",
+    "pinyin": "tǐjī",
+    "english": "Volume",
+    "sentence": "物体所占空间的大小。例如：立方体的体积是边长的立方。",
+    "sentencePinyin": "Wùtǐ suǒ zhàn kōngjiān de dàxiǎo. Lìrú: Lìfāngtǐ de tǐjī shì biāncháng de lìfāng.",
+    "sentenceMeaning": "The amount of space an object occupies. For example: The volume of a cube is the cube of its side length."
+  },
+  {
+    "id": 65,
+    "hanzi": "表面积",
+    "pinyin": "biǎomiànjī",
+    "english": "Surface Area",
+    "sentence": "物体所有表面的面积之和。",
+    "sentencePinyin": "Wùtǐ suǒyǒu biǎomiàn de miànjī zhī hé.",
+    "sentenceMeaning": "The total area of all the surfaces of an object."
+  },
+  {
+    "id": 66,
+    "hanzi": "有理数",
+    "pinyin": "yǒulǐshù",
+    "english": "Rational number",
+    "sentence": "可以表示为两个整数之比的数。例如：1/2, 0.75, 5。",
+    "sentencePinyin": "Kěyǐ biǎoshì wéi liǎng gè zhěngshù zhī bǐ de shù. Lìrú: 1/2, 0.75, 5.",
+    "sentenceMeaning": "A number that can be expressed as a ratio of two integers. For example: 1/2, 0.75, 5."
+  },
+  {
+    "id": 67,
+    "hanzi": "无理数",
+    "pinyin": "wúlǐshù",
+    "english": "Irrational number",
+    "sentence": "不能表示为分数形式的数。例如：π, √2。",
+    "sentencePinyin": "Bùnéng biǎoshì wéi fēnshù xíngshì de shù. Lìrú: π, √2.",
+    "sentenceMeaning": "A number that cannot be expressed as a fraction. For example: π, √2."
+  },
+  {
+    "id": 68,
+    "hanzi": "实数",
+    "pinyin": "shíshù",
+    "english": "Real number",
+    "sentence": "有理数和无理数的总称。可以在数轴上表示出来。",
+    "sentencePinyin": "Yǒulǐshù hé wúlǐshù de zǒngchēng. Kěyǐ zài shùzhóu shàng biǎoshì chūlái.",
+    "sentenceMeaning": "The set of all rational and irrational numbers. Can be represented on a number line."
+  },
+  {
+    "id": 69,
+    "hanzi": "绝对值",
+    "pinyin": "juéduìzhí",
+    "english": "Absolute Value",
+    "sentence": "一个数在数轴上到原点的距离，总是非负。符号：|x|。例如：|5| = 5, |-5| = 5。",
+    "sentencePinyin": "Yīgè shù zài shùzhóu shàng dào yuándiǎn de jùlí, zǒng shì fēi fù. Fúhào: |x|. Lìrú: |5| = 5, |-5| = 5.",
+    "sentenceMeaning": "The distance of a number from zero on the number line, always non-negative. Symbol: |x|. For example: |5| = 5, |-5| = 5."
+  }
+]

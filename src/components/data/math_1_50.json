@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "hanzi": "加",
+    "pinyin": "jiā",
+    "english": "Add",
+    "sentence": "把两个数合在一起。例如：2 加 3 等于 5。",
+    "sentencePinyin": "Bǎ liǎng gè shù hé zài yīqǐ. Lìrú: 2 jiā 3 děngyú 5.",
+    "sentenceMeaning": "Put two numbers together. For example: 2 plus 3 equals 5."
+  },
+  {
+    "id": 2,
+    "hanzi": "减",
+    "pinyin": "jiǎn",
+    "english": "Subtract",
+    "sentence": "从一个数中去掉一部分。例如：5 减 2 等于 3。",
+    "sentencePinyin": "Cóng yīgè shù zhōng qùdiào yī bùfèn. Lìrú: 5 jiǎn 2 děngyú 3.",
+    "sentenceMeaning": "Remove a part from a number. For example: 5 minus 2 equals 3."
+  },
+  {
+    "id": 3,
+    "hanzi": "乘",
+    "pinyin": "chéng",
+    "english": "Multiply",
+    "sentence": "相同的数连加的快捷方式。例如：3 乘 4 等于 12。",
+    "sentencePinyin": "Xiāngtóng de shù lián jiā de kuàijié fāngshì. Lìrú: 3 chéng 4 děngyú 12.",
+    "sentenceMeaning": "A shortcut for repeated addition of the same number. For example: 3 times 4 equals 12."
+  },
+  {
+    "id": 4,
+    "hanzi": "除",
+    "pinyin": "chú",
+    "english": "Divide",
+    "sentence": "将一个数分成若干等份。例如：12 除以 3 等于 4。",
+    "sentencePinyin": "Jiāng yīgè shù fēn chéng ruògā děng fèn. Lìrú: 12 chú yǐ 3 děngyú 4.",
+    "sentenceMeaning": "Divide a number into several equal parts. For example: 12 divided by 3 equals 4."
+  },
+  {
+    "id": 5,
+    "hanzi": "和",
+    "pinyin": "hé",
+    "english": "Sum",
+    "sentence": "加法的结果。例如：2 和 3 的和是 5。",
+    "sentencePinyin": "Jiāfǎ de jiéguǒ. Lìrú: 2 hé 3 de hé shì 5.",
+    "sentenceMeaning": "The result of addition. For example: The sum of 2 and 3 is 5."
+  },
+  {
+    "id": 6,
+    "hanzi": "差",
+    "pinyin": "chā",
+    "english": "Difference",
+    "sentence": "减法的结果。例如：5 和 2 的差是 3。",
+    "sentencePinyin": "Jiǎnfǎ de jiéguǒ. Lìrú: 5 hé 2 de chā shì 3.",
+    "sentenceMeaning": "The result of subtraction. For example: The difference between 5 and 2 is 3."
+  },
+  {
+    "id": 7,
+    "hanzi": "积",
+    "pinyin": "jī",
+    "english": "Product",
+    "sentence": "乘法的结果。例如：3 和 4 的积是 12。",
+    "sentencePinyin": "Chéngfǎ de jiéguǒ. Lìrú: 3 hé 4 de jī shì 12.",
+    "sentenceMeaning": "The result of multiplication. For example: The product of 3 and 4 is 12."
+  },
+  {
+    "id": 8,
+    "hanzi": "商",
+    "pinyin": "shāng",
+    "english": "Quotient",
+    "sentence": "除法的结果。例如：12 除以 3 的商是 4。",
+    "sentencePinyin": "Chúfǎ de jiéguǒ. Lìrú: 12 chú yǐ 3 de shāng shì 4.",
+    "sentenceMeaning": "The result of division. For example: The quotient of 12 divided by 3 is 4."
+  },
+  {
+    "id": 9,
+    "hanzi": "等于",
+    "pinyin": "děngyú",
+    "english": "Equal",
+    "sentence": "表示两边一样。例如：1 + 1 等于 2。",
+    "sentencePinyin": "Biǎoshì liǎngbiān yīyàng. Lìrú: 1 + 1 děngyú 2.",
+    "sentenceMeaning": "Indicates that both sides are the same. For example: 1 + 1 equals 2."
+  },
+  {
+    "id": 10,
+    "hanzi": "大于",
+    "pinyin": "dàyú",
+    "english": "Greater than",
+    "sentence": "> 符号，表示左边的数比右边大。例如：5 大于 3。",
+    "sentencePinyin": "> fúhào, biǎoshì zuǒbiān de shù bǐ yòubiān dà. Lìrú: 5 dàyú 3.",
+    "sentenceMeaning": "> symbol, means the number on the left is greater than the one on the right. For example: 5 is greater than 3."
+  },
+  {
+    "id": 11,
+    "hanzi": "小于",
+    "pinyin": "xiǎoyú",
+    "english": "Less than",
+    "sentence": "< 符号，表示左边的数比右边小。例如：3 小于 5。",
+    "sentencePinyin": "< fúhào, biǎoshì zuǒbiān de shù bǐ yòubiān xiǎo. Lìrú: 3 xiǎoyú 5.",
+    "sentenceMeaning": "< symbol, means the number on the left is less than the one on the right. For example: 3 is less than 5."
+  },
+  {
+    "id": 12,
+    "hanzi": "括号",
+    "pinyin": "kuòhào",
+    "english": "Parentheses",
+    "sentence": "( )，用来改变运算顺序。例如：(2 + 3) × 4。",
+    "sentencePinyin": "( ), yòng lái gǎibiàn yùnsuàn shùnxù. Lìrú: (2 + 3) × 4.",
+    "sentenceMeaning": "( ), used to change the order of operations. For example: (2 + 3) × 4."
+  },
+  {
+    "id": 13,
+    "hanzi": "答案",
+    "pinyin": "dá'àn",
+    "english": "Answer",
+    "sentence": "问题的结果。例如：这道题的答案是 10。",
+    "sentencePinyin": "Wèntí de jiéguǒ. Lìrú: Zhè dào tí de dá'àn shì 10.",
+    "sentenceMeaning": "The result of a problem. For example: The answer to this problem is 10."
+  },
+  {
+    "id": 14,
+    "hanzi": "整数",
+    "pinyin": "zhěngshù",
+    "english": "Integer",
+    "sentence": "像 ...-2, -1, 0, 1, 2... 这样的数。",
+    "sentencePinyin": "Xiàng ...-2, -1, 0, 1, 2... zhèyàng de shù.",
+    "sentenceMeaning": "Numbers like ...-2, -1, 0, 1, 2..."
+  },
+  {
+    "id": 15,
+    "hanzi": "小数",
+    "pinyin": "xiǎoshù",
+    "english": "Decimal",
+    "sentence": "包含小数点的数。例如：3.14，0.5。",
+    "sentencePinyin": "Bāohán xiǎoshùdiǎn de shù. Lìrú: 3.14, 0.5.",
+    "sentenceMeaning": "Numbers containing a decimal point. For example: 3.14, 0.5."
+  },
+  {
+    "id": 16,
+    "hanzi": "分数",
+    "pinyin": "fēnshù",
+    "english": "Fraction",
+    "sentence": "表示一个整体的一部分。例如：1/2（二分之一）。",
+    "sentencePinyin": "Biǎoshì yīgè zhěngtǐ de yī bùfèn. Lìrú: 1/2 (èr fēn zhī yī).",
+    "sentenceMeaning": "Represents a part of a whole. For example: 1/2 (one half)."
+  },
+  {
+    "id": 17,
+    "hanzi": "分母",
+    "pinyin": "fēnmǔ",
+    "english": "Denominator",
+    "sentence": "分数中下面的数字。例如：在 1/2 中，2 是分母。",
+    "sentencePinyin": "Fēnshù zhōng xiàmiàn de shùzì. Lìrú: Zài 1/2 zhōng, 2 shì fēnmǔ.",
+    "sentenceMeaning": "The bottom number in a fraction. For example: In 1/2, 2 is the denominator."
+  },
+  {
+    "id": 18,
+    "hanzi": "分子",
+    "pinyin": "fēnzǐ",
+    "english": "Numerator",
+    "sentence": "分数中上面的数字。例如：在 1/2 中，1 是分子。",
+    "sentencePinyin": "Fēnshù zhōng shàngmiàn de shùzì. Lìrú: Zài 1/2 zhōng, 1 shì fēnzǐ.",
+    "sentenceMeaning": "The top number in a fraction. For example: In 1/2, 1 is the numerator."
+  },
+  {
+    "id": 19,
+    "hanzi": "百分比",
+    "pinyin": "bǎifēnbǐ",
+    "english": "Percentage",
+    "sentence": "%，表示百分之几。例如：50% 表示百分之五十。",
+    "sentencePinyin": "%, biǎoshì bǎi fēn zhī jǐ. Lìrú: 50% biǎoshì bǎi fēn zhī wǔshí.",
+    "sentenceMeaning": "%, means per hundred. For example: 50% means fifty percent."
+  },
+  {
+    "id": 20,
+    "hanzi": "奇数",
+    "pinyin": "jīshù",
+    "english": "Odd number",
+    "sentence": "不能被2整除的数。例如：1, 3, 5, 7...",
+    "sentencePinyin": "Bù néng bèi 2 zhěngchú de shù. Lìrú: 1, 3, 5, 7...",
+    "sentenceMeaning": "Numbers that cannot be divided evenly by 2. For example: 1, 3, 5, 7..."
+  },
+  {
+    "id": 21,
+    "hanzi": "偶数",
+    "pinyin": "ǒushù",
+    "english": "Even number",
+    "sentence": "能被2整除的数。例如：2, 4, 6, 8...",
+    "sentencePinyin": "Néng bèi 2 zhěngchú de shù. Lìrú: 2, 4, 6, 8...",
+    "sentenceMeaning": "Numbers that can be divided evenly by 2. For example: 2, 4, 6, 8..."
+  },
+  {
+    "id": 22,
+    "hanzi": "个位",
+    "pinyin": "gè wèi",
+    "english": "Ones place",
+    "sentence": "数字的最后一位。例如：在 123 中，3 在个位。",
+    "sentencePinyin": "Shùzì de zuìhòu yī wèi. Lìrú: Zài 123 zhōng, 3 zài gè wèi.",
+    "sentenceMeaning": "The last digit of a number. For example: In 123, 3 is in the ones place."
+  },
+  {
+    "id": 23,
+    "hanzi": "十位",
+    "pinyin": "shí wèi",
+    "english": "Tens place",
+    "sentence": "数字的倒数第二位。例如：在 123 中，2 在十位。",
+    "sentencePinyin": "Shùzì de dàoshù dì èr wèi. Lìrú: Zài 123 zhōng, 2 zài shí wèi.",
+    "sentenceMeaning": "The second last digit of a number. For example: In 123, 2 is in the tens place."
+  },
+  {
+    "id": 24,
+    "hanzi": "点",
+    "pinyin": "diǎn",
+    "english": "Point",
+    "sentence": "一个位置，没有大小。在几何中用一个点来表示。",
+    "sentencePinyin": "Yīgè wèizhì, méiyǒu dàxiǎo. Zài jǐhé zhōng yòng yīgè diǎn lái biǎoshì.",
+    "sentenceMeaning": "A location, has no size. Represented by a dot in geometry."
+  },
+  {
+    "id": 25,
+    "hanzi": "线",
+    "pinyin": "xiàn",
+    "english": "Line",
+    "sentence": "由无数个点组成。有直线和曲线。",
+    "sentencePinyin": "Yóu wúshù gè diǎn zǔchéng. Yǒu zhíxiàn hé qūxiàn.",
+    "sentenceMeaning": "Composed of countless points. There are straight lines and curved lines."
+  },
+  {
+    "id": 26,
+    "hanzi": "角",
+    "pinyin": "jiǎo",
+    "english": "Angle",
+    "sentence": "由两条射线共享一个端点组成。用度 (°) 来度量。",
+    "sentencePinyin": "Yóu liǎng tiáo shèxiàn gòngxiǎng yīgè duāndiǎn zǔchéng. Yòng dù (°) lái dùliàng.",
+    "sentenceMeaning": "Formed by two rays sharing a common endpoint. Measured in degrees (°)."
+  },
+  {
+    "id": 27,
+    "hanzi": "三角形",
+    "pinyin": "sānjiǎoxíng",
+    "english": "Triangle",
+    "sentence": "有三条边和三个角的图形。",
+    "sentencePinyin": "Yǒu sān tiáo biān hé sān gè jiǎo de túxíng.",
+    "sentenceMeaning": "A shape with three sides and three angles."
+  },
+  {
+    "id": 28,
+    "hanzi": "正方形",
+    "pinyin": "zhèngfāngxíng",
+    "english": "Square",
+    "sentence": "四边相等，四个角都是直角的四边形。",
+    "sentencePinyin": "Sìbiān xiāngděng, sì gè jiǎo dōu shì zhíjiǎo de sìbiānxíng.",
+    "sentenceMeaning": "A quadrilateral with four equal sides and four right angles."
+  },
+  {
+    "id": 29,
+    "hanzi": "长方形",
+    "pinyin": "chángfāngxíng",
+    "english": "Rectangle",
+    "sentence": "对边相等，四个角都是直角的四边形。",
+    "sentencePinyin": "Duìbiān xiāngděng, sì gè jiǎo dōu shì zhíjiǎo de sìbiānxíng.",
+    "sentenceMeaning": "A quadrilateral with opposite sides equal and four right angles."
+  },
+  {
+    "id": 30,
+    "hanzi": "圆形",
+    "pinyin": "yuánxíng",
+    "english": "Circle",
+    "sentence": "到一个定点（圆心）距离相等的所有点的集合。",
+    "sentencePinyin": "Dào yīgè dìngdiǎn (yuánxīn) jùlí xiāngděng de suǒyǒu diǎn de jíhé.",
+    "sentenceMeaning": "The set of all points equidistant from a fixed point (the center)."
+  },
+  {
+    "id": 31,
+    "hanzi": "半径",
+    "pinyin": "bànjìng",
+    "english": "Radius",
+    "sentence": "从圆心到圆上任意一点的线段。",
+    "sentencePinyin": "Cóng yuánxīn dào yuán shàng rènyì yīdiǎn de xiànduàn.",
+    "sentenceMeaning": "A line segment from the center of a circle to any point on the circle."
+  },
+  {
+    "id": 32,
+    "hanzi": "直径",
+    "pinyin": "zhíjìng",
+    "english": "Diameter",
+    "sentence": "通过圆心，两端都在圆上的线段。是半径的两倍。",
+    "sentencePinyin": "Tōngguò yuánxīn, liǎng duān dōu zài yuán shàng de xiànduàn. Shì bànjìng de liǎng bèi.",
+    "sentenceMeaning": "A line segment passing through the center with both endpoints on the circle. It is twice the radius."
+  },
+  {
+    "id": 33,
+    "hanzi": "周长",
+    "pinyin": "zhōucháng",
+    "english": "Perimeter",
+    "sentence": "图形边界的总长度。例如：正方形的周长是边长乘以4。",
+    "sentencePinyin": "Túxíng biānjiè de zǒng chángdù. Lìrú: Zhèngfāngxíng de zhōucháng shì biāncháng chéng yǐ 4.",
+    "sentenceMeaning": "The total length of the boundary of a shape. For example: The perimeter of a square is side length times 4."
+  },
+  {
+    "id": 34,
+    "hanzi": "面积",
+    "pinyin": "miànjī",
+    "english": "Area",
+    "sentence": "图形表面的大小。例如：长方形的面积是长乘以宽。",
+    "sentencePinyin": "Túxíng biǎomiàn de dàxiǎo. Lìrú: Chángfāngxíng de miànjī shì cháng chéng yǐ kuān.",
+    "sentenceMeaning": "The size of a surface. For example: The area of a rectangle is length times width."
+  },
+  {
+    "id": 35,
+    "hanzi": "平行",
+    "pinyin": "píngxíng",
+    "english": "Parallel",
+    "sentence": "两条永不相交的直线。",
+    "sentencePinyin": "Liǎng tiáo yǒng bù xiāngjiāo de zhíxiàn.",
+    "sentenceMeaning": "Two lines that never intersect."
+  },
+  {
+    "id": 36,
+    "hanzi": "垂直",
+    "pinyin": "chuízhí",
+    "english": "Perpendicular",
+    "sentence": "两条相交成90°角的直线。",
+    "sentencePinyin": "Liǎng tiáo xiāngjiāo chéng 90° jiǎo de zhíxiàn.",
+    "sentenceMeaning": "Two lines that intersect at a 90° angle."
+  },
+  {
+    "id": 37,
+    "hanzi": "锐角",
+    "pinyin": "ruìjiǎo",
+    "english": "Acute angle",
+    "sentence": "小于90°的角。",
+    "sentencePinyin": "Xiǎoyú 90° de jiǎo.",
+    "sentenceMeaning": "An angle less than 90°."
+  },
+  {
+    "id": 38,
+    "hanzi": "钝角",
+    "pinyin": "dùnjiǎo",
+    "english": "Obtuse angle",
+    "sentence": "大于90°且小于180°的角。",
+    "sentencePinyin": "Dàyú 90° qiě xiǎoyú 180° de jiǎo.",
+    "sentenceMeaning": "An angle greater than 90° and less than 180°."
+  },
+  {
+    "id": 39,
+    "hanzi": "直角",
+    "pinyin": "zhíjiǎo",
+    "english": "Right angle",
+    "sentence": "等于90°的角。",
+    "sentencePinyin": "Děngyú 90° de jiǎo.",
+    "sentenceMeaning": "An angle equal to 90°."
+  },
+  {
+    "id": 40,
+    "hanzi": "平均数",
+    "pinyin": "píngjūnshù",
+    "english": "Mean",
+    "sentence": "一组数据的总和除以数据的个数。",
+    "sentencePinyin": "Yī zǔ shùjù de zǒnghé chú yǐ shùjù de gèshù.",
+    "sentenceMeaning": "The sum of a set of numbers divided by the count of numbers."
+  },
+  {
+    "id": 41,
+    "hanzi": "中位数",
+    "pinyin": "zhōngwèishù",
+    "english": "Median",
+    "sentence": "将一组数据按顺序排列后，位于中间位置的数。",
+    "sentencePinyin": "Jiāng yī zǔ shùjù àn shùnxù páiliè hòu, wèiyú zhōngjiān wèizhì de shù.",
+    "sentenceMeaning": "The middle number in a sorted, ascending or descending, list of numbers."
+  },
+  {
+    "id": 42,
+    "hanzi": "众数",
+    "pinyin": "zhòngshù",
+    "english": "Mode",
+    "sentence": "一组数据中出现次数最多的数。",
+    "sentencePinyin": "Yī zǔ shùjù zhōng chūxiàn cìshù zuìduō de shù.",
+    "sentenceMeaning": "The number that appears most frequently in a data set."
+  },
+  {
+    "id": 43,
+    "hanzi": "概率",
+    "pinyin": "gàilǜ",
+    "english": "Probability",
+    "sentence": "某事发生的可能性。通常用0到1之间的数表示。",
+    "sentencePinyin": "Mǒu shì fāshēng de kěnéngxìng. Tōngcháng yòng 0 dào 1 zhī jiān de shù biǎoshì.",
+    "sentenceMeaning": "The likelihood of an event happening. Usually expressed as a number between 0 and 1."
+  },
+  {
+    "id": 44,
+    "hanzi": "统计",
+    "pinyin": "tǒngjì",
+    "english": "Statistics",
+    "sentence": "收集、分析、解释数据的学科。",
+    "sentencePinyin": "Shōují, fēnxī, jiěshì shùjù de xuékē.",
+    "sentenceMeaning": "The discipline of collecting, analyzing, and interpreting data."
+  },
+  {
+    "id": 45,
+    "hanzi": "图表",
+    "pinyin": "túbiǎo",
+    "english": "Chart/Graph",
+    "sentence": "数据的可视化表示，如条形图、折线图。",
+    "sentencePinyin": "Shùjù de kěshì huà biǎoshì, rú tiáoxíngtú, zhéxiàntú.",
+    "sentenceMeaning": "A visual representation of data, such as bar charts, line graphs."
+  },
+  {
+    "id": 46,
+    "hanzi": "定理",
+    "pinyin": "dìnglǐ",
+    "english": "Theorem",
+    "sentence": "可以被证明为真的数学陈述。例如：勾股定理。",
+    "sentencePinyin": "Kěyǐ bèi zhèngmíng wéi zhēn de shùxué chénshù. Lìrú: Gōugǔ dìnglǐ.",
+    "sentenceMeaning": "A mathematical statement that can be proven true. For example: Pythagorean theorem."
+  },
+  {
+    "id": 47,
+    "hanzi": "证明",
+    "pinyin": "zhèngmíng",
+    "english": "Prove",
+    "sentence": "用逻辑推理来证实一个结论的过程。",
+    "sentencePinyin": "Yòng luójí tuīlǐ lái zhèngshí yīgè jiélùn de guòchéng.",
+    "sentenceMeaning": "The process of using logical reasoning to confirm a conclusion."
+  },
+  {
+    "id": 48,
+    "hanzi": "公式",
+    "pinyin": "gōngshì",
+    "english": "Formula",
+    "sentence": "用数学符号表达各个量之间关系的式子。例如：圆的面积公式是 πr²。",
+    "sentencePinyin": "Yòng shùxué fúhào biǎodá gège liàng zhī jiān guānxì de shì zi. Lìrú: Yuán de miànjī gōngshì shì πr².",
+    "sentenceMeaning": "An expression using mathematical symbols to show the relationship between quantities. For example: The area formula for a circle is πr²."
+  },
+  {
+    "id": 49,
+    "hanzi": "比例",
+    "pinyin": "bǐlì",
+    "english": "Proportion",
+    "sentence": "表示两个比相等的式子。例如：1/2 = 2/4。",
+    "sentencePinyin": "Biǎoshì liǎng gè bǐ xiāngděng de shì zi. Lìrú: 1/2 = 2/4.",
+    "sentenceMeaning": "An equation stating that two ratios are equal. For example: 1/2 = 2/4."
+  },
+  {
+    "id": 50,
+    "hanzi": "勾股定理",
+    "pinyin": "gōugǔ dìnglǐ",
+    "english": "Pythagorean Theorem",
+    "sentence": "直角三角形两直角边的平方和等于斜边平方。公式：a² + b² = c²。",
+    "sentencePinyin": "Zhíjiǎo sānjiǎoxíng liǎng zhíjiǎo biān de píngfāng hé děngyú xiébiān píngfāng. Gōngshì: a² + b² = c².",
+    "sentenceMeaning": "In a right triangle, the square of the hypotenuse is equal to the sum of the squares of the other two sides. Formula: a² + b² = c²."
+  }
+]

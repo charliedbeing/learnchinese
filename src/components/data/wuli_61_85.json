@@ -1,0 +1,227 @@
+[
+  {
+    "id": 61,
+    "hanzi": "欧姆定律",
+    "pinyin": "Ōumǔ Dìnglǜ",
+    "english": "Ohm's Law",
+    "sentence": "导体中的电流，跟导体两端的电压成正比，跟导体的电阻成反比。公式：I = U/R。",
+    "sentencePinyin": "Dǎotǐ zhōng de diànliú, gēn dǎotǐ liǎng duān de diànyā chéng zhèngbǐ, gēn dǎotǐ de diànzǔ chéng fǎnbǐ. Gōngshì: I = U/R.",
+    "sentenceMeaning": "The current through a conductor between two points is directly proportional to the voltage across the two points and inversely proportional to the resistance between them. Formula: I = U/R."
+  },
+  {
+    "id": 62,
+    "hanzi": "串联",
+    "pinyin": "chuànlián",
+    "english": "Series Connection",
+    "sentence": "电路元件逐个顺次连接，电流只有一条路径。",
+    "sentencePinyin": "Diànlù yuánjiàn zhú gè shùn cì liánjiē, diànliú zhǐyǒu yī tiáo lùjìng.",
+    "sentenceMeaning": "Components connected end-to-end in a circuit, providing a single path for current."
+  },
+  {
+    "id": 63,
+    "hanzi": "并联",
+    "pinyin": "bìnglián",
+    "english": "Parallel Connection",
+    "sentence": "电路元件并列地连接在电路的两点间，电流有多条路径。",
+    "sentencePinyin": "Diànlù yuánjiàn bìngliè de liánjiē zài diànlù de liǎng diǎn jiān, diànliú yǒu duō tiáo lùjìng.",
+    "sentenceMeaning": "Components connected across the same two points in a circuit, providing multiple paths for current."
+  },
+  {
+    "id": 64,
+    "hanzi": "电功率",
+    "pinyin": "diàn gōnglǜ",
+    "english": "Electric Power",
+    "sentence": "电流在单位时间内所做的功。表示电流做功的快慢。单位：瓦特 (W)。公式：P = UI。",
+    "sentencePinyin": "Diànliú zài dānwèi shíjiān nèi suǒ zuò de gōng. Biǎoshì diànliú zuògōng de kuàimàn. Dānwèi: wǎtè (W). Gōngshì: P = UI.",
+    "sentenceMeaning": "The rate at which electrical energy is transferred by an electric circuit. Unit: Watt (W). Formula: P = UI."
+  },
+  {
+    "id": 65,
+    "hanzi": "电能",
+    "pinyin": "diànnéng",
+    "english": "Electrical Energy",
+    "sentence": "电流所具有的能量。单位：焦耳 (J)，常用千瓦时 (kW·h，度)。",
+    "sentencePinyin": "Diànliú suǒ jùyǒu de néngliàng. Dānwèi: jiāo'ěr (J), chángyòng qiānwǎ shí (kW·h, dù).",
+    "sentenceMeaning": "The energy carried by an electric current. Unit: Joule (J), commonly kilowatt-hour (kW·h)."
+  },
+  {
+    "id": 66,
+    "hanzi": "磁场",
+    "pinyin": "cíchǎng",
+    "english": "Magnetic Field",
+    "sentence": "磁体周围存在的一种特殊物质，它对放入其中的磁体产生磁力的作用。",
+    "sentencePinyin": "Cítǐ zhōuwéi cúnzài de yī zhǒng tèshū wùzhì, tā duì fàng rù qízhōng de cítǐ chǎnshēng cí lì de zuòyòng.",
+    "sentenceMeaning": "A region around a magnetic material or a moving electric charge within which the force of magnetism acts."
+  },
+  {
+    "id": 67,
+    "hanzi": "磁感线",
+    "pinyin": "cí gǎn xiàn",
+    "english": "Magnetic Field Line",
+    "sentence": "为了形象地描述磁场而引入的假想曲线，曲线上任何一点的切线方向都与该点的磁场方向一致。",
+    "sentencePinyin": "Wèile xíngxiàng de miáoshù cíchǎng ér yǐnrù de jiǎxiǎng qūxiàn, qūxiàn shàng rènhé yīdiǎn de qiēxiàn fāngxiàng dōu yǔ gāi diǎn de cíchǎng fāngxiàng yīzhì.",
+    "sentenceMeaning": "Imaginary lines used to visualize the magnetic field; the tangent at any point gives the field direction."
+  },
+  {
+    "id": 68,
+    "hanzi": "电磁铁",
+    "pinyin": "diàncítiě",
+    "english": "Electromagnet",
+    "sentence": "带有铁芯的螺线管，通电时产生磁性，断电时磁性消失。",
+    "sentencePinyin": "Dài yǒu tiě xīn de luóxiànguǎn, tōngdiàn shí chǎnshēng cíxìng, duàndiàn shí cíxìng xiāoshī.",
+    "sentenceMeaning": "A type of magnet in which the magnetic field is produced by an electric current, typically a wire coil with a iron core."
+  },
+  {
+    "id": 69,
+    "hanzi": "电磁感应",
+    "pinyin": "diàncí gǎnyìng",
+    "english": "Electromagnetic Induction",
+    "sentence": "闭合电路的一部分导体在磁场中做切割磁感线运动时，导体中就会产生电流的现象。",
+    "sentencePinyin": "Bìhé diànlù de yī bùfèn dǎotǐ zài cíchǎng zhōng zuò qiēgé cí gǎn xiàn yùndòng shí, dǎotǐ zhōng jiù huì chǎnshēng diànliú de xiànxiàng.",
+    "sentenceMeaning": "The production of an electromotive force (and thus current) in a conductor due to a changing magnetic field."
+  },
+  {
+    "id": 70,
+    "hanzi": "发电机",
+    "pinyin": "fādiànjī",
+    "english": "Generator",
+    "sentence": "利用电磁感应原理，将机械能转化为电能的装置。",
+    "sentencePinyin": "Lìyòng diàncí gǎnyìng yuánlǐ, jiāng jīxiè néng zhuǎn huà wéi diànnéng de zhuāngzhì.",
+    "sentenceMeaning": "A device that converts mechanical energy into electrical energy using electromagnetic induction."
+  },
+  {
+    "id": 71,
+    "hanzi": "电动机",
+    "pinyin": "diàndòngjī",
+    "english": "Electric Motor",
+    "sentence": "利用通电线圈在磁场中受力转动的原理，将电能转化为机械能的装置。",
+    "sentencePinyin": "Lìyòng tōngdiàn xiànquān zài cíchǎng zhōng shòu lì zhuǎndòng de yuánlǐ, jiāng diànnéng zhuǎn huà wéi jīxiè néng de zhuāngzhì.",
+    "sentenceMeaning": "A device that converts electrical energy into mechanical energy using the force on a current-carrying coil in a magnetic field."
+  },
+  {
+    "id": 72,
+    "hanzi": "能源",
+    "pinyin": "néngyuán",
+    "english": "Energy Source",
+    "sentence": "能够提供能量的资源。如：化石能源（煤、石油、天然气）、水能、风能、太阳能、核能。",
+    "sentencePinyin": "Nénggòu tígōng néngliàng de zīyuán. Rú: huàshí néngyuán (méi, shíyóu, tiānránqì), shuǐnéng, fēngnéng, tàiyáng néng, hénéng.",
+    "sentenceMeaning": "Resources that can provide energy. E.g., fossil fuels (coal, oil, natural gas), hydropower, wind power, solar energy, nuclear energy."
+  },
+  {
+    "id": 73,
+    "hanzi": "可再生能源",
+    "pinyin": "kě zàishēng néngyuán",
+    "english": "Renewable Energy",
+    "sentence": "在自然界中可以不断再生、永续利用的能源。如：太阳能、风能、水能、生物质能。",
+    "sentencePinyin": "Zài zìránjiè zhōng kěyǐ bùduàn zàishēng, yǒng xù lìyòng de néngyuán. Rú: tàiyáng néng, fēngnéng, shuǐnéng, shēngwùzhì néng.",
+    "sentenceMeaning": "Energy sources that are naturally replenished on a human timescale. E.g., solar, wind, hydropower, biomass."
+  },
+  {
+    "id": 74,
+    "hanzi": "不可再生能源",
+    "pinyin": "bù kě zàishēng néngyuán",
+    "english": "Non-renewable Energy",
+    "sentence": "短期内无法再生或需要漫长地质年代才能形成的能源。如：煤、石油、天然气、核燃料（铀）。",
+    "sentencePinyin": "Duǎn qī nèi wúfǎ zàishēng huò xūyào màncháng dìzhì niándài cáinéng xíngchéng de néngyuán. Rú: méi, shíyóu, tiānránqì, hé ránliào (yóu).",
+    "sentenceMeaning": "Energy sources that exist in finite quantities and cannot be replenished in a short time. E.g., coal, oil, natural gas, nuclear fuels (uranium)."
+  },
+  {
+    "id": 75,
+    "hanzi": "能量守恒定律",
+    "pinyin": "néngliàng shǒuhéng dìnglǜ",
+    "english": "Law of Conservation of Energy",
+    "sentence": "能量既不会凭空产生，也不会凭空消失，它只会从一种形式转化为其他形式，或者从一个物体转移到另一个物体，而在转化和转移的过程中，能量的总量保持不变。",
+    "sentencePinyin": "Néngliàng jì bù huì píngkōng chǎnshēng, yě bù huì píngkōng xiāoshī, tā zhǐ huì cóng yī zhǒng xíngshì zhuǎn huà wéi qítā xíngshì, huòzhě cóng yīgè wùtǐ zhuǎnyí dào lìng yīgè wùtǐ, ér zài zhuǎn huà hé zhuǎnyí de guòchéng zhōng, néngliàng de zǒngliàng bǎochí bù biàn.",
+    "sentenceMeaning": "Energy cannot be created or destroyed, it can only be transformed from one form to another or transferred from one object to another, and the total amount of energy remains constant."
+  },
+  {
+    "id": 76,
+    "hanzi": "分子",
+    "pinyin": "fēnzǐ",
+    "english": "Molecule",
+    "sentence": "物质中能够独立存在并保持该物质一切化学性质的最小微粒。",
+    "sentencePinyin": "Wùzhí zhōng nénggòu dúlì cúnzài bìng bǎochí gāi wùzhí yīqiè huàxué xìngzhì de zuìxiǎo wēilì.",
+    "sentenceMeaning": "The smallest particle of a substance that can exist independently and retain all the chemical properties of that substance."
+  },
+  {
+    "id": 77,
+    "hanzi": "原子",
+    "pinyin": "yuánzǐ",
+    "english": "Atom",
+    "sentence": "化学变化中的最小微粒，由原子核和核外电子组成。",
+    "sentencePinyin": "Huàxué biànhuà zhōng de zuìxiǎo wēilì, yóu yuánzǐhé hé hé wài diànzǐ zǔchéng.",
+    "sentenceMeaning": "The smallest unit of an element that maintains the chemical properties of that element, composed of a nucleus and electrons."
+  },
+  {
+    "id": 78,
+    "hanzi": "核能",
+    "pinyin": "hénéng",
+    "english": "Nuclear Energy",
+    "sentence": "原子核发生裂变或聚变时释放出的巨大能量。",
+    "sentencePinyin": "Yuánzǐhé fāshēng lièbiàn huò jùbiàn shí shìfàng chū de jùdà néngliàng.",
+    "sentenceMeaning": "The energy released during nuclear fission or fusion."
+  },
+  {
+    "id": 79,
+    "hanzi": "信息",
+    "pinyin": "xìnxī",
+    "english": "Information",
+    "sentence": "消息、情报、知识等内容。",
+    "sentencePinyin": "Xiāoxī, qíngbào, zhīshì děng nèiróng.",
+    "sentenceMeaning": "Knowledge communicated or received concerning a particular fact or circumstance."
+  },
+  {
+    "id": 80,
+    "hanzi": "波",
+    "pinyin": "bō",
+    "english": "Wave",
+    "sentence": "振动在介质中的传播过程，是能量传递的一种形式。如：机械波（声波）、电磁波（光波、无线电波）。",
+    "sentencePinyin": "Zhèndòng zài jièzhì zhōng de chuánbō guòchéng, shì néngliàng chuándì de yī zhǒng xíngshì. Rú: jīxiè bō (shēngbō), diàncí bō (guāngbō, wúxiàndiàn bō).",
+    "sentenceMeaning": "A disturbance that travels through a medium, transferring energy from one point to another. E.g., mechanical waves (sound), electromagnetic waves (light, radio)."
+  },
+  {
+    "id": 81,
+    "hanzi": "电磁波",
+    "pinyin": "diàncíbō",
+    "english": "Electromagnetic Wave",
+    "sentence": "由同相振荡且互相垂直的电场与磁场在空间中以波的形式移动，其传播方向垂直于电场与磁场构成的平面。不需要介质。包括无线电波、微波、红外线、可见光、紫外线、X射线、γ射线。",
+    "sentencePinyin": "Yóu tóng xiàng zhèndàng qiě hùxiāng chuízhí de diànchǎng yǔ cíchǎng zài kōngjiān zhōng yǐ bō de xíngshì yídòng, qí chuánbō fāngxiàng chuízhí yú diànchǎng yǔ cíchǎng gòuchéng de píngmiàn. Bù xūyào jièzhì. Bāokuò wúxiàndiàn bō, wéibō, hóngwàixiàn, kějiànguāng, zǐwàixiàn, X shèxiàn, γ shèxiàn.",
+    "sentenceMeaning": "A wave of electric and magnetic fields oscillating perpendicularly to each other and the direction of propagation. Does not require a medium. Includes radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, gamma rays."
+  },
+  {
+    "id": 82,
+    "hanzi": "纳米",
+    "pinyin": "nàmǐ",
+    "english": "Nanometer",
+    "sentence": "长度单位，1纳米等于十亿分之一米 (10⁻⁹ m)。纳米技术是研究结构尺寸在1-100纳米范围内材料的性质和应用。",
+    "sentencePinyin": "Chángdù dānwèi, 1 nàmǐ děngyú shíyì fēn zhī yī mǐ (10⁻⁹ m). Nàmǐ jìshù shì yánjiū jiégòu chǐcùn zài 1-100 nàmǐ fànwéi nèi cáiliào de xìngzhì hé yìngyòng.",
+    "sentenceMeaning": "A unit of length, one billionth of a meter (10⁻⁹ m). Nanotechnology is the manipulation of matter with at least one dimension sized from 1 to 100 nanometers."
+  },
+  {
+    "id": 83,
+    "hanzi": "卫星",
+    "pinyin": "wèixīng",
+    "english": "Satellite",
+    "sentence": "围绕行星运行的天体。人造卫星是人工制造的、围绕地球或其他天体运行的航天器。",
+    "sentencePinyin": "Wéirào xíngxīng yùnxíng de tiāntǐ. Rénzào wèixīng shì réngōng zhìzào de, wéirào dìqiú huò qítā tiāntǐ yùnxíng de hángtiānqì.",
+    "sentenceMeaning": "A celestial body that orbits a planet. An artificial satellite is a human-made object intentionally placed into orbit."
+  },
+  {
+    "id": 84,
+    "hanzi": "宇宙",
+    "pinyin": "yǔzhòu",
+    "english": "Universe",
+    "sentence": "所有时间、空间、物质和能量的总称。",
+    "sentencePinyin": "Suǒyǒu shíjiān, kōngjiān, wùzhí hé néngliàng de zǒngchēng.",
+    "sentenceMeaning": "The totality of all space, time, matter, and energy."
+  },
+  {
+    "id": 85,
+    "hanzi": "科学家",
+    "pinyin": "kēxuéjiā",
+    "english": "Scientist",
+    "sentence": "从事科学研究，探索自然规律的人。例如：牛顿、爱因斯坦。",
+    "sentencePinyin": "Cóngshì kēxué yánjiū, tànsuǒ zìrán guīlǜ de rén. Lìrú: Niúdùn, Àiyīnsītǎn.",
+    "sentenceMeaning": "A person who conducts scientific research to advance knowledge in an area of interest. E.g., Newton, Einstein."
+  }
+]

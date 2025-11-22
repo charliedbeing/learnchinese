@@ -1,0 +1,272 @@
+[
+  {
+    "id": 31,
+    "hanzi": "热学",
+    "pinyin": "rèxué",
+    "english": "Thermodynamics",
+    "sentence": "研究热现象的物理学分支，包括温度、热量、热传递等。",
+    "sentencePinyin": "Yánjiū rè xiànxiàng de wùlǐ xué fēnzhī, bāokuò wēndù, rèliàng, rè chuándì děng.",
+    "sentenceMeaning": "The branch of physics that studies heat phenomena, including temperature, heat, and heat transfer."
+  },
+  {
+    "id": 32,
+    "hanzi": "温度",
+    "pinyin": "wēndù",
+    "english": "Temperature",
+    "sentence": "表示物体冷热程度的物理量。单位：摄氏度 (°C)。",
+    "sentencePinyin": "Biǎoshì wùtǐ lěng rè chéngdù de wùlǐ liàng. Dānwèi: shèshì dù (°C).",
+    "sentenceMeaning": "A physical quantity that indicates how hot or cold an object is. Unit: degree Celsius (°C)."
+  },
+  {
+    "id": 33,
+    "hanzi": "热量",
+    "pinyin": "rèliàng",
+    "english": "Heat",
+    "sentence": "在热传递过程中，物体吸收或放出能量的多少。单位：焦耳 (J)。",
+    "sentencePinyin": "Zài rè chuándì guòchéng zhōng, wùtǐ xīshōu huò fàngchū néngliàng de duōshǎo. Dānwèi: jiāo'ěr (J).",
+    "sentenceMeaning": "The amount of energy transferred between objects due to a temperature difference. Unit: Joule (J)."
+  },
+  {
+    "id": 34,
+    "hanzi": "热传递",
+    "pinyin": "rè chuándì",
+    "english": "Heat Transfer",
+    "sentence": "热量从高温物体传到低温物体，或者从物体的高温部分传到低温部分的过程。方式有传导、对流、辐射。",
+    "sentencePinyin": "Rèliàng cóng gāowēn wùtǐ chuán dào dīwēn wùtǐ, huòzhě cóng wùtǐ de gāowēn bùfèn chuán dào dīwēn bùfèn de guòchéng. Fāngshì yǒu chuándǎo, duìliú, fúshè.",
+    "sentenceMeaning": "The process of heat moving from a higher temperature object to a lower temperature object. Methods include conduction, convection, and radiation."
+  },
+  {
+    "id": 35,
+    "hanzi": "传导",
+    "pinyin": "chuándǎo",
+    "english": "Conduction",
+    "sentence": "热沿着物体传递，但物体各部分之间没有发生相对位移。例如：金属勺子在热汤中变热。",
+    "sentencePinyin": "Rè yánzhe wùtǐ chuándì, dàn wùtǐ gè bùfèn zhī jiān méiyǒu fāshēng xiāngduì wèiyí. Lìrú: jīnshǔ sháozǐ zài rè tāng zhōng biàn rè.",
+    "sentenceMeaning": "Heat transfer through a material without movement of the material itself. E.g., a metal spoon getting hot in soup."
+  },
+  {
+    "id": 36,
+    "hanzi": "对流",
+    "pinyin": "duìliú",
+    "english": "Convection",
+    "sentence": "通过流体（液体或气体）的流动来传递热的方式。例如：烧水时水的循环流动。",
+    "sentencePinyin": "Tōngguò liútǐ (yètǐ huò qìtǐ) de liúdòng lái chuándì rè de fāngshì. Lìrú: shāo shuǐ shí shuǐ de xúnhuán liúdòng.",
+    "sentenceMeaning": "Heat transfer by the movement of fluids (liquids or gases). E.g., the circulating flow of water when boiling."
+  },
+  {
+    "id": 37,
+    "hanzi": "辐射",
+    "pinyin": "fúshè",
+    "english": "Radiation",
+    "sentence": "热由热源直接以电磁波的形式向外发射的传递方式。例如：太阳的热传到地球。",
+    "sentencePinyin": "Rè yóu rèyuán zhíjiē yǐ diàncíbō de xíngshì xiàng wài fāshè de chuándì fāngshì. Lìrú: Tàiyáng de rè chuán dào dìqiú.",
+    "sentenceMeaning": "Heat transfer by electromagnetic waves,不需要介质. E.g., heat from the Sun reaching Earth."
+  },
+  {
+    "id": 38,
+    "hanzi": "声学",
+    "pinyin": "shēngxué",
+    "english": "Acoustics",
+    "sentence": "研究声音的产生、传播、接收和效应的物理学分支。",
+    "sentencePinyin": "Yánjiū shēngyīn de chǎnshēng, chuánbō, jiēshōu hé xiàoyìng de wùlǐ xué fēnzhī.",
+    "sentenceMeaning": "The branch of physics dealing with the production, propagation, reception, and effects of sound."
+  },
+  {
+    "id": 39,
+    "hanzi": "声音",
+    "pinyin": "shēngyīn",
+    "english": "Sound",
+    "sentence": "由物体振动产生，通过介质（固体、液体、气体）传播，并能被人耳或动物听觉器官所感知的声波。",
+    "sentencePinyin": "Yóu wùtǐ zhèndòng chǎnshēng, tōngguò jièzhì (gùtǐ, yètǐ, qìtǐ) chuánbō, bìng néng bèi rén ěr huò dòngwù tīngjué qìguān suǒ gǎnzhī de shēngbō.",
+    "sentenceMeaning": "A form of energy produced by vibrating objects, transmitted through a medium (solid, liquid, gas), and perceived by the ear."
+  },
+  {
+    "id": 40,
+    "hanzi": "振动",
+    "pinyin": "zhèndòng",
+    "english": "Vibration",
+    "sentence": "物体在某一中心位置附近做往复运动。声音源于物体的振动。",
+    "sentencePinyin": "Wùtǐ zài mǒu yī zhōngxīn wèizhì fùjìn zuò wǎngfù yùndòng. Shēngyīn yuán yú wùtǐ de zhèndòng.",
+    "sentenceMeaning": "The repetitive back-and-forth motion of an object around a central position. Sound originates from vibrations."
+  },
+  {
+    "id": 41,
+    "hanzi": "声波",
+    "pinyin": "shēngbō",
+    "english": "Sound Wave",
+    "sentence": "声音的传播形式，是一种机械波，需要介质。",
+    "sentencePinyin": "Shēngyīn de chuánbō xíngshì, shì yī zhǒng jīxiè bō, xūyào jièzhì.",
+    "sentenceMeaning": "The form in which sound travels; it is a mechanical wave and requires a medium."
+  },
+  {
+    "id": 42,
+    "hanzi": "频率",
+    "pinyin": "pínlǜ",
+    "english": "Frequency",
+    "sentence": "物体每秒振动的次数。单位：赫兹 (Hz)。决定声音的音调。",
+    "sentencePinyin": "Wùtǐ měi miǎo zhèndòng de cìshù. Dānwèi: hèzī (Hz). Juédìng shēngyīn de yīndiào.",
+    "sentenceMeaning": "The number of vibrations per second. Unit: Hertz (Hz). Determines the pitch of a sound."
+  },
+  {
+    "id": 43,
+    "hanzi": "振幅",
+    "pinyin": "zhènfú",
+    "english": "Amplitude",
+    "sentence": "振动物体离开平衡位置的最大距离。决定声音的响度。",
+    "sentencePinyin": "Zhèndòng wùtǐ líkāi pínghéng wèizhì de zuìdà jùlí. Juédìng shēngyīn de xiǎngdù.",
+    "sentenceMeaning": "The maximum displacement of a vibrating object from its equilibrium position. Determines the loudness of a sound."
+  },
+  {
+    "id": 44,
+    "hanzi": "光学",
+    "pinyin": "guāngxué",
+    "english": "Optics",
+    "sentence": "研究光的本性、传播、与物质相互作用以及应用的物理学分支。",
+    "sentencePinyin": "Yánjiū guāng de běnxìng, chuánbō, yǔ wùzhí hùxiāng zuòyòng yǐjí yìngyòng de wùlǐ xué fēnzhī.",
+    "sentenceMeaning": "The branch of physics that studies the nature, propagation, interaction of light with matter, and its applications."
+  },
+  {
+    "id": 45,
+    "hanzi": "光源",
+    "pinyin": "guāngyuán",
+    "english": "Light Source",
+    "sentence": "能自行发光的物体。例如：太阳、电灯。",
+    "sentencePinyin": "Néng zìxíng fāguāng de wùtǐ. Lìrú: Tàiyáng, diàndēng.",
+    "sentenceMeaning": "An object that emits its own light. E.g., the Sun, an electric lamp."
+  },
+  {
+    "id": 46,
+    "hanzi": "光线",
+    "pinyin": "guāngxiàn",
+    "english": "Light Ray",
+    "sentence": "表示光传播路径的带箭头的直线。",
+    "sentencePinyin": "Biǎoshì guāng chuánbō lùjìng de dài jiàntóu de zhíxiàn.",
+    "sentenceMeaning": "A straight line with an arrow used to represent the path of light."
+  },
+  {
+    "id": 47,
+    "hanzi": "光的直线传播",
+    "pinyin": "guāng de zhíxiàn chuánbō",
+    "english": "Rectilinear Propagation of Light",
+    "sentence": "光在同种均匀介质中沿直线传播。例如：影子的形成。",
+    "sentencePinyin": "Guāng zài tóng zhǒng jūnyún jièzhì zhōng yán zhíxiàn chuánbō. Lìrú: yǐngzi de xíngchéng.",
+    "sentenceMeaning": "Light travels in straight lines in a homogeneous transparent medium. E.g., the formation of shadows."
+  },
+  {
+    "id": 48,
+    "hanzi": "反射",
+    "pinyin": "fǎnshè",
+    "english": "Reflection",
+    "sentence": "光在传播到不同物质交界面时，部分光返回原介质中的现象。",
+    "sentencePinyin": "Guāng zài chuánbō dào bùtóng wùzhí jiāojiè miàn shí, bùfèn guāng fǎnhuí yuán jièzhì zhōng de xiànxiàng.",
+    "sentenceMeaning": "The phenomenon where light, upon hitting a boundary between different media, bounces back into the original medium."
+  },
+  {
+    "id": 49,
+    "hanzi": "折射",
+    "pinyin": "zhéshè",
+    "english": "Refraction",
+    "sentence": "光从一种介质斜射入另一种介质时，传播方向发生改变的现象。",
+    "sentencePinyin": "Guāng cóng yī zhǒng jièzhì xié shè rù lìng yī zhǒng jièzhì shí, chuánbō fāngxiàng fāshēng gǎibiàn de xiànxiàng.",
+    "sentenceMeaning": "The change in direction of a light wave as it passes from one medium to another."
+  },
+  {
+    "id": 50,
+    "hanzi": "凸透镜",
+    "pinyin": "tū tòujìng",
+    "english": "Convex Lens",
+    "sentence": "中间厚、边缘薄的透镜，对光线有会聚作用。",
+    "sentencePinyin": "Zhōngjiān hòu, biānyuán báo de tòujìng, duì guāngxiàn yǒu huìjù zuòyòng.",
+    "sentenceMeaning": "A lens that is thicker in the middle than at the edges, it converges light rays."
+  },
+  {
+    "id": 51,
+    "hanzi": "凹透镜",
+    "pinyin": "āo tòujìng",
+    "english": "Concave Lens",
+    "sentence": "中间薄、边缘厚的透镜，对光线有发散作用。",
+    "sentencePinyin": "Zhōngjiān báo, biānyuán hòu de tòujìng, duì guāngxiàn yǒu fāsàn zuòyòng.",
+    "sentenceMeaning": "A lens that is thinner in the middle than at the edges, it diverges light rays."
+  },
+  {
+    "id": 52,
+    "hanzi": "焦点",
+    "pinyin": "jiāodiǎn",
+    "english": "Focal Point",
+    "sentence": "平行于凸透镜主光轴的光线，经透镜折射后会聚的点。",
+    "sentencePinyin": "Píngxíng yú tū tòujìng zhǔ guāngzhóu de guāngxiàn, jīng tòujìng zhéshè hòu huìjù de diǎn.",
+    "sentenceMeaning": "The point where light rays parallel to the principal axis of a convex lens converge after refraction."
+  },
+  {
+    "id": 53,
+    "hanzi": "焦距",
+    "pinyin": "jiāojù",
+    "english": "Focal Length",
+    "sentence": "透镜的中心到焦点的距离。",
+    "sentencePinyin": "Tòujìng de zhōngxīn dào jiāodiǎn de jùlí.",
+    "sentenceMeaning": "The distance from the center of a lens to its focal point."
+  },
+  {
+    "id": 54,
+    "hanzi": "实像",
+    "pinyin": "shíxiàng",
+    "english": "Real Image",
+    "sentence": "由实际光线会聚而成的像，能被光屏接收。",
+    "sentencePinyin": "Yóu shíjì guāngxiàn huìjù ér chéng de xiàng, néng bèi guāngpíng jiēshōu.",
+    "sentenceMeaning": "An image formed by the actual convergence of light rays, which can be projected onto a screen."
+  },
+  {
+    "id": 55,
+    "hanzi": "虚像",
+    "pinyin": "xūxiàng",
+    "english": "Virtual Image",
+    "sentence": "由光线的反向延长线相交而成的像，不能被光屏接收。例如：平面镜成的像。",
+    "sentencePinyin": "Yóu guāngxiàn de fǎnxiàng yáncháng xiàn xiāngjiāo ér chéng de xiàng, bùnéng bèi guāngpíng jiēshōu. Lìrú: píngmiànjìng chéng de xiàng.",
+    "sentenceMeaning": "An image formed by the apparent divergence of light rays, cannot be projected onto a screen. E.g., an image in a plane mirror."
+  },
+  {
+    "id": 56,
+    "hanzi": "光的色散",
+    "pinyin": "guāng de sèsàn",
+    "english": "Dispersion of Light",
+    "sentence": "复色光分解为单色光的现象。例如：太阳光通过三棱镜分解成七色光。",
+    "sentencePinyin": "Fùsèguāng fēnjiě wèi dānsèguāng de xiànxiàng. Lìrú: Tàiyángguāng tōngguò sānléngjìng fēnjiě chéng qī sè guāng.",
+    "sentenceMeaning": "The separation of white light into its constituent colors. E.g., sunlight splitting into a spectrum by a prism."
+  },
+  {
+    "id": 57,
+    "hanzi": "电流",
+    "pinyin": "diànliú",
+    "english": "Electric Current",
+    "sentence": "电荷的定向移动形成电流。规定正电荷移动的方向为电流方向。单位：安培 (A)。",
+    "sentencePinyin": "Diànhè de dìngxiàng yídòng xíngchéng diànliú. Guīdìng zhèng diànhè yídòng de fāngxiàng wèi diànliú fāngxiàng. Dānwèi: ānpéi (A).",
+    "sentenceMeaning": "The flow of electric charge. The direction of current is defined as the direction positive charges would flow. Unit: Ampere (A)."
+  },
+  {
+    "id": 58,
+    "hanzi": "电路",
+    "pinyin": "diànlù",
+    "english": "Circuit",
+    "sentence": "由电源、用电器、导线、开关等元件组成的电流路径。",
+    "sentencePinyin": "Yóu diànyuán, yòngdiànqì, dǎoxiàn, kāiguān děng yuánjiàn zǔchéng de diànliú lùjìng.",
+    "sentenceMeaning": "A path consisting of components like a power source, electrical appliance, wires, and a switch, through which electric current flows."
+  },
+  {
+    "id": 59,
+    "hanzi": "电压",
+    "pinyin": "diànyā",
+    "english": "Voltage",
+    "sentence": "使电路中形成电流的原因。单位：伏特 (V)。",
+    "sentencePinyin": "Shǐ diànlù zhōng xíngchéng diànliú de yuányīn. Dānwèi: fútè (V).",
+    "sentenceMeaning": "The cause that drives electric current in a circuit. Unit: Volt (V)."
+  },
+  {
+    "id": 60,
+    "hanzi": "电阻",
+    "pinyin": "diànzǔ",
+    "english": "Resistance",
+    "sentence": "导体对电流的阻碍作用。单位：欧姆 (Ω)。",
+    "sentencePinyin": "Dǎotǐ duì diànliú de zǔ'ài zuòyòng. Dānwèi: ōumǔ (Ω).",
+    "sentenceMeaning": "The opposition that a conductor offers to the flow of electric current. Unit: Ohm (Ω)."
+  }
+]

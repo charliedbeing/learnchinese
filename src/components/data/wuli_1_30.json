@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "hanzi": "物理",
+    "pinyin": "wùlǐ",
+    "english": "Physics",
+    "sentence": "研究物质、能量以及它们之间相互作用的自然科学。",
+    "sentencePinyin": "Yánjiū wùzhí, néngliàng yǐjí tāmen zhī jiān hùxiāng zuòyòng de zìrán kēxué.",
+    "sentenceMeaning": "The natural science that studies matter, energy, and their interactions."
+  },
+  {
+    "id": 2,
+    "hanzi": "力学",
+    "pinyin": "lìxué",
+    "english": "Mechanics",
+    "sentence": "研究物体机械运动和力的作用的物理学分支。",
+    "sentencePinyin": "Yánjiū wùtǐ jīxiè yùndòng hé lì de zuòyòng de wùlǐ xué fēnzhī.",
+    "sentenceMeaning": "The branch of physics that studies the motion of objects and the effects of forces."
+  },
+  {
+    "id": 3,
+    "hanzi": "质量",
+    "pinyin": "zhìliàng",
+    "english": "Mass",
+    "sentence": "物体所含物质的多少，是物体惯性大小的量度。单位：千克 (kg)。",
+    "sentencePinyin": "Wùtǐ suǒ hán wùzhí de duōshǎo, shì wùtǐ guànxìng dàxiǎo de liángdù. Dānwèi: qiānkè (kg).",
+    "sentenceMeaning": "The amount of matter in an object, and a measure of its inertia. Unit: kilogram (kg)."
+  },
+  {
+    "id": 4,
+    "hanzi": "重量",
+    "pinyin": "zhòngliàng",
+    "english": "Weight",
+    "sentence": "物体由于地球吸引而受到的力。单位：牛顿 (N)。公式：G = mg。",
+    "sentencePinyin": "Wùtǐ yóuyú dìqiú xīyǐn ér shòudào de lì. Dānwèi: niúdùn (N). Gōngshì: G = mg.",
+    "sentenceMeaning": "The force on an object due to gravity. Unit: Newton (N). Formula: G = mg."
+  },
+  {
+    "id": 5,
+    "hanzi": "力",
+    "pinyin": "lì",
+    "english": "Force",
+    "sentence": "物体对物体的作用。可以改变物体的运动状态或形状。单位：牛顿 (N)。",
+    "sentencePinyin": "Wùtǐ duì wùtǐ de zuòyòng. Kěyǐ gǎibiàn wùtǐ de yùndòng zhuàngtài huò xíngzhuàng. Dānwèi: niúdùn (N).",
+    "sentenceMeaning": "An interaction between objects. It can change an object's motion or shape. Unit: Newton (N)."
+  },
+  {
+    "id": 6,
+    "hanzi": "重力",
+    "pinyin": "zhònglì",
+    "english": "Gravity",
+    "sentence": "地球吸引物体而产生的力，方向竖直向下。",
+    "sentencePinyin": "Dìqiú xīyǐn wùtǐ ér chǎnshēng de lì, fāngxiàng shùzhí xiàng xià.",
+    "sentenceMeaning": "The force of attraction by the Earth on objects, direction vertically downward."
+  },
+  {
+    "id": 7,
+    "hanzi": "弹力",
+    "pinyin": "tánlì",
+    "english": "Elastic Force",
+    "sentence": "物体发生弹性形变时，产生的试图恢复原状的力。例如：弹簧的力。",
+    "sentencePinyin": "Wùtǐ fāshēng tánxìng xíngbiàn shí, chǎnshēng de shìtú huīfù yuán zhuàng de lì. Lìrú: tánhuáng de lì.",
+    "sentenceMeaning": "The force exerted by an object when it is elastically deformed, trying to return to its original shape. E.g., the force from a spring."
+  },
+  {
+    "id": 8,
+    "hanzi": "摩擦力",
+    "pinyin": "mócā lì",
+    "english": "Friction",
+    "sentence": "两个相互接触的物体，当它们发生或有相对运动趋势时，在接触面上产生的阻碍相对运动的力。",
+    "sentencePinyin": "Liǎng gè hùxiāng jiēchù de wùtǐ, dāng tāmen fāshēng huò yǒu xiāngduì yùndòng qūshì shí, zài jiēchù miàn shàng chǎnshēng de zǔ'ài xiāngduì yùndòng de lì.",
+    "sentenceMeaning": "A force that opposes the relative motion or tendency of such motion of two surfaces in contact."
+  },
+  {
+    "id": 9,
+    "hanzi": "压力",
+    "pinyin": "yālì",
+    "english": "Pressure",
+    "sentence": "垂直作用在物体表面上的力。单位：帕斯卡 (Pa)。公式：P = F/S。",
+    "sentencePinyin": "Chuízhí zuòyòng zài wùtǐ biǎomiàn shàng de lì. Dānwèi: pàsīkǎ (Pa). Gōngshì: P = F/S.",
+    "sentenceMeaning": "Force applied perpendicular to the surface of an object per unit area. Unit: Pascal (Pa). Formula: P = F/S."
+  },
+  {
+    "id": 10,
+    "hanzi": "压强",
+    "pinyin": "yāqiáng",
+    "english": "Pressure",
+    "sentence": "单位面积上受到的压力。是表示压力作用效果的物理量。单位：帕斯卡 (Pa)。",
+    "sentencePinyin": "Dānwèi miànjī shàng shòudào de yālì. Shì biǎoshì yālì zuòyòng xiàoguǒ de wùlǐ liàng. Dānwèi: pàsīkǎ (Pa).",
+    "sentenceMeaning": "The force per unit area applied to a surface. It indicates the effect of pressure. Unit: Pascal (Pa)."
+  },
+  {
+    "id": 11,
+    "hanzi": "运动",
+    "pinyin": "yùndòng",
+    "english": "Motion",
+    "sentence": "物体位置随时间的变化。",
+    "sentencePinyin": "Wùtǐ wèizhì suí shíjiān de biànhuà.",
+    "sentenceMeaning": "The change in an object's position with time."
+  },
+  {
+    "id": 12,
+    "hanzi": "参照物",
+    "pinyin": "cānzhàowù",
+    "english": "Reference Object",
+    "sentence": "判断一个物体是否运动时，被选作标准的另一个物体。",
+    "sentencePinyin": "Pànduàn yīgè wùtǐ shìfǒu yùndòng shí, bèi xuǎn zuò biāozhǔn de lìng yīgè wùtǐ.",
+    "sentenceMeaning": "Another object chosen as a standard to determine if an object is in motion."
+  },
+  {
+    "id": 13,
+    "hanzi": "速度",
+    "pinyin": "sùdù",
+    "english": "Speed",
+    "sentence": "表示物体运动快慢的物理量。等于路程与时间的比值。单位：米/秒 (m/s)。",
+    "sentencePinyin": "Biǎoshì wùtǐ yùndòng kuàimàn de wùlǐ liàng. Děngyú lùchéng yǔ shíjiān de bǐzhí. Dānwèi: mǐ/miǎo (m/s).",
+    "sentenceMeaning": "A physical quantity that represents how fast an object is moving. It is the ratio of distance traveled to time taken. Unit: meter/second (m/s)."
+  },
+  {
+    "id": 14,
+    "hanzi": "匀速直线运动",
+    "pinyin": "yúnsù zhíxiàn yùndòng",
+    "english": "Uniform Linear Motion",
+    "sentence": "物体沿着直线且速度大小不变的运动。",
+    "sentencePinyin": "Wùtǐ yánzhe zhíxiàn qiě sùdù dàxiǎo bù biàn de yùndòng.",
+    "sentenceMeaning": "Motion along a straight line with constant speed."
+  },
+  {
+    "id": 15,
+    "hanzi": "力",
+    "pinyin": "lì",
+    "english": "Force",
+    "sentence": "物体对物体的作用。力可以改变物体的运动状态。",
+    "sentencePinyin": "Wùtǐ duì wùtǐ de zuòyòng. Lì kěyǐ gǎibiàn wùtǐ de yùndòng zhuàngtài.",
+    "sentenceMeaning": "An interaction between objects. Force can change the motion of an object."
+  },
+  {
+    "id": 16,
+    "hanzi": "牛顿第一定律",
+    "pinyin": "Niúdùn Dì-yī Dìnglǜ",
+    "english": "Newton's First Law",
+    "sentence": "又称惯性定律：一切物体在没有受到外力作用时，总保持匀速直线运动状态或静止状态。",
+    "sentencePinyin": "Yòu chēng guànxìng dìnglǜ: Yīqiè wùtǐ zài méiyǒu shòudào wàilì zuòyòng shí, zǒng bǎochí yúnsù zhíxiàn yùndòng zhuàngtài huò jìngzhǐ zhuàngtài.",
+    "sentenceMeaning": "Also known as the Law of Inertia: An object at rest stays at rest and an object in motion stays in motion with the same speed and in the same direction unless acted upon by an unbalanced force."
+  },
+  {
+    "id": 17,
+    "hanzi": "惯性",
+    "pinyin": "guànxìng",
+    "english": "Inertia",
+    "sentence": "物体保持原有运动状态不变的性质。",
+    "sentencePinyin": "Wùtǐ bǎochí yuányǒu yùndòng zhuàngtài bù biàn de xìngzhì.",
+    "sentenceMeaning": "The tendency of an object to resist any change in its state of motion."
+  },
+  {
+    "id": 18,
+    "hanzi": "牛顿第二定律",
+    "pinyin": "Niúdùn Dì-èr Dìnglǜ",
+    "english": "Newton's Second Law",
+    "sentence": "物体的加速度与作用力成正比，与物体质量成反比。公式：F = ma。",
+    "sentencePinyin": "Wùtǐ de jiāsùdù yǔ zuòyòng lì chéng zhèngbǐ, yǔ wùtǐ zhìliàng chéng fǎnbǐ. Gōngshì: F = ma.",
+    "sentenceMeaning": "The acceleration of an object is directly proportional to the net force acting on it and inversely proportional to its mass. Formula: F = ma."
+  },
+  {
+    "id": 19,
+    "hanzi": "牛顿第三定律",
+    "pinyin": "Niúdùn Dì-sān Dìnglǜ",
+    "english": "Newton's Third Law",
+    "sentence": "作用力与反作用力：两个物体之间的作用力和反作用力总是大小相等，方向相反，作用在同一条直线上。",
+    "sentencePinyin": "Zuòyòng lì yǔ fǎn zuòyòng lì: Liǎng gè wùtǐ zhī jiān de zuòyòng lì hé fǎn zuòyòng lì zǒng shì dàxiǎo xiāngděng, fāngxiàng xiāngfǎn, zuòyòng zài tóng yī tiáo zhíxiàn shàng.",
+    "sentenceMeaning": "Action and Reaction: For every action, there is an equal and opposite reaction."
+  },
+  {
+    "id": 20,
+    "hanzi": "平衡力",
+    "pinyin": "pínghéng lì",
+    "english": "Balanced Forces",
+    "sentence": "作用在同一个物体上的两个力，如果大小相等、方向相反，并且作用在同一直线上。物体处于平衡状态。",
+    "sentencePinyin": "Zuòyòng zài tóng yīgè wùtǐ shàng de liǎng gè lì, rúguǒ dàxiǎo xiāngděng, fāngxiàng xiāngfǎn, bìngqiě zuòyòng zài tóng yī zhíxiàn shàng. Wùtǐ chǔyú pínghéng zhuàngtài.",
+    "sentenceMeaning": "Two forces acting on the same object that are equal in size and opposite in direction, acting along the same line. The object is in equilibrium."
+  },
+  {
+    "id": 21,
+    "hanzi": "能量",
+    "pinyin": "néngliàng",
+    "english": "Energy",
+    "sentence": "物体做功的能力。单位：焦耳 (J)。",
+    "sentencePinyin": "Wùtǐ zuògōng de nénglì. Dānwèi: jiāo'ěr (J).",
+    "sentenceMeaning": "The capacity of an object to do work. Unit: Joule (J)."
+  },
+  {
+    "id": 22,
+    "hanzi": "动能",
+    "pinyin": "dòngnéng",
+    "english": "Kinetic Energy",
+    "sentence": "物体由于运动而具有的能量。公式：Ek = ½mv²。",
+    "sentencePinyin": "Wùtǐ yóuyú yùndòng ér jùyǒu de néngliàng. Gōngshì: Ek = ½mv².",
+    "sentenceMeaning": "The energy an object possesses due to its motion. Formula: Ek = ½mv²."
+  },
+  {
+    "id": 23,
+    "hanzi": "势能",
+    "pinyin": "shìnéng",
+    "english": "Potential Energy",
+    "sentence": "物体由于被举高或者发生弹性形变而具有的能量。",
+    "sentencePinyin": "Wùtǐ yóuyú bèi jǔ gāo huòzhě fāshēng tánxìng xíngbiàn ér jùyǒu de néngliàng.",
+    "sentenceMeaning": "The energy stored in an object due to its position or configuration."
+  },
+  {
+    "id": 24,
+    "hanzi": "重力势能",
+    "pinyin": "zhònglì shìnéng",
+    "english": "Gravitational Potential Energy",
+    "sentence": "物体由于被举高而具有的能量。公式：Ep = mgh。",
+    "sentencePinyin": "Wùtǐ yóuyú bèi jǔ gāo ér jùyǒu de néngliàng. Gōngshì: Ep = mgh.",
+    "sentenceMeaning": "The energy an object possesses due to its height above a reference point. Formula: Ep = mgh."
+  },
+  {
+    "id": 25,
+    "hanzi": "机械能",
+    "pinyin": "jīxiè néng",
+    "english": "Mechanical Energy",
+    "sentence": "动能和势能（重力势能和弹性势能）的统称。",
+    "sentencePinyin": "Dòngnéng hé shìnéng (zhònglì shìnéng hé tánxìng shìnéng) de tǒngchēng.",
+    "sentenceMeaning": "The sum of kinetic energy and potential energy (gravitational and elastic)."
+  },
+  {
+    "id": 26,
+    "hanzi": "功",
+    "pinyin": "gōng",
+    "english": "Work",
+    "sentence": "作用在物体上的力与物体在力的方向上移动的距离的乘积。单位：焦耳 (J)。公式：W = Fs。",
+    "sentencePinyin": "Zuòyòng zài wùtǐ shàng de lì yǔ wùtǐ zài lì de fāngxiàng shàng yídòng de jùlí de chéngjī. Dānwèi: jiāo'ěr (J). Gōngshì: W = Fs.",
+    "sentenceMeaning": "The product of the force applied to an object and the distance the object moves in the direction of the force. Unit: Joule (J). Formula: W = Fs."
+  },
+  {
+    "id": 27,
+    "hanzi": "功率",
+    "pinyin": "gōnglǜ",
+    "english": "Power",
+    "sentence": "单位时间内完成的功。表示做功的快慢。单位：瓦特 (W)。公式：P = W/t。",
+    "sentencePinyin": "Dānwèi shíjiān nèi wánchéng de gōng. Biǎoshì zuògōng de kuàimàn. Dānwèi: wǎtè (W). Gōngshì: P = W/t.",
+    "sentenceMeaning": "The rate at which work is done. It indicates how fast work is done. Unit: Watt (W). Formula: P = W/t."
+  },
+  {
+    "id": 28,
+    "hanzi": "简单机械",
+    "pinyin": "jiǎndān jīxiè",
+    "english": "Simple Machine",
+    "sentence": "杠杆、滑轮、斜面、轮轴等基本机械工具的统称。",
+    "sentencePinyin": "Gànggǎn, huálún, xiémiàn, lúnzhóu děng jīběn jīxiè gōngjù de tǒngchēng.",
+    "sentenceMeaning": "A general term for basic mechanical tools like levers, pulleys, inclined planes, and wheel and axles."
+  },
+  {
+    "id": 29,
+    "hanzi": "杠杆",
+    "pinyin": "gànggǎn",
+    "english": "Lever",
+    "sentence": "一根在力的作用下绕固定点转动的硬棒。",
+    "sentencePinyin": "Yī gēn zài lì de zuòyòng xià rào gùdìng diǎn zhuǎndòng de yìng bàng.",
+    "sentenceMeaning": "A rigid bar that rotates around a fixed point (fulcrum) when a force is applied."
+  },
+  {
+    "id": 30,
+    "hanzi": "浮力",
+    "pinyin": "fúlì",
+    "english": "Buoyancy",
+    "sentence": "浸在液体（或气体）中的物体受到液体（或气体）向上托的力。",
+    "sentencePinyin": "Jìn zài yètǐ (huò qìtǐ) zhōng de wùtǐ shòudào yètǐ (huò qìtǐ) xiàng shàng tuō de lì.",
+    "sentenceMeaning": "The upward force exerted on an object immersed in a fluid (liquid or gas)."
+  }
+]
